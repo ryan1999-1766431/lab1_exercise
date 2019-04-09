@@ -1,6 +1,6 @@
-#Ryan Huang#
-##University of Washington##
-###Sophomore###
+#Ryan Huang
+##University of Washington
+###Sophomore
 ![my photo](me.jpg)
 I'm an **International Student** studying *Accounting* at Foster School of Business.
 *Noodle
